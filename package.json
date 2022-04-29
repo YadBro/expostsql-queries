@@ -1,0 +1,40 @@
+{
+  "type": "module",
+  "name": "expostsql-queries",
+  "version": "1.0.0",
+  "description": "Queries postgresql all you need in express js",
+  "main": "expostsql-queries.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yadi Apriyadi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.0",
+    "hbs": "^4.2.0",
+    "pg": "^8.7.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "express",
+    "postgresql",
+    "query",
+    "query-postgresql",
+    "query-postgresql-express",
+    "crud",
+    "crud-postgresql",
+    "crud-postgresql-express",
+    "crud-express"
+  ],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadBro/expostsql-queries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YadBro/expostsql-queries/issues"
+  },
+  "homepage": "https://github.com/YadBro/expostsql-queries#readme"
+}
